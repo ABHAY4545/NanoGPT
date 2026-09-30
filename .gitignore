@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Model checkpoints
+checkpoints/
+
+# Downloaded data and training output
+data/
+log/
+logs/
+scripts/hellaswag_val.jsonl
+scripts/log.txt
+
+# macOS metadata
+.DS_Store
